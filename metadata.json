@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Azo Chat Hub",
+  "description": "A high-end chat hub with group customization, AI-powered moderation, and pro-grade image generation using Gemini. ",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
